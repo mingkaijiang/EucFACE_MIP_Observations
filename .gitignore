@@ -47,3 +47,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+## ignore all data files
+*.csv
+*.txt
+*.pdf
+*.jpg
+*.nc
+*.html
+*.dat
+*.rds

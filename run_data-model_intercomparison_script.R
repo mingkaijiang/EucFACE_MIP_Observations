@@ -231,18 +231,6 @@ make_time_varying_data_model_comparison_over_obs_period(scenario="VAR")
 
 
 
-### Taylor diagram for LAI, Rsoil and GPP
-plot_taylor_diagram(scenario="VAR")
-
-
-
-
-
-
-
-
-
-
 ##########################################################################
 ####
 #### End.
